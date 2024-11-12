@@ -32,3 +32,4 @@ public class Answer {
     @ManyToMany  // 좋아요 기능
     Set<SiteUser> voter;
 }
+//1
